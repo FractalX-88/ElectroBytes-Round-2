@@ -49,9 +49,9 @@ XNOR: 1
 ```
 **Sample Output 1:**
 ```text
-* * *
+*   *   *
  * * * *
-  * *
+  *   *
 ```
 
 ---
@@ -99,7 +99,7 @@ XNOR: 1
 ```
 **Sample Output 1:**
 ```text
-61
+59
 ```
 
 ---
