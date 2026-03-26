@@ -27,14 +27,21 @@ Welcome to the Debugging Hackathon! You have been provided with 5 faulty program
     * Output: 
         ```text
         * * *
-         * * ```
+         * * 
 
 ### Q3: University Student Searching
 **Problem:** The code takes an array of student IDs, sorts them in ascending order, and uses Binary Search to find a target ID.
 * **Constraints:** 1 <= N <= 10^4.
 * **Input:** N (number of students), followed by N space-separated IDs, followed by the Target ID.
 * **Output:** Line 1: The sorted array. Line 2: The index of the target (or -1 if not found).
-* **Sample 1:** Input: `5 \n 5 4 3 2 1 \n 3` | Output: `1 2 3 4 5 \n 2`
+* **Sample 1:** Input:
+* `5
+  5 4 3 2 1
+  3`
+  Output:
+  `1
+  2 3 4 5
+  2`
 
 ### Q4: Round-Robin CPU Scheduling
 **Problem:** Simulate a Round-Robin CPU scheduler and output the total turnaround time of all processes combined.
